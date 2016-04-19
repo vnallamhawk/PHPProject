@@ -1,0 +1,95 @@
+body {
+background-color:brown;
+	/* background-image: url("images/blog.jpg"); */
+} 
+
+.textarea
+{
+color: black; background-color: transparent;border-color:black;
+}
+.header
+{
+text-shadow: 3x 3px black;
+    background-color: green;
+    color:black;
+    text-align:center;
+    padding:18px;
+font-weight: border;
+font-size:36px;
+border-color:brown	;
+} 
+
+.form_login
+{
+position: absolute;
+    top: 40%;
+    left: 40%;
+  
+}
+
+.non_users
+{
+position: absolute;
+margin-top:-40px;
+    top: 60%;
+    left: 40%;
+}
+
+#logout
+{
+float:right;
+}
+#reset
+{
+background-color:brown;
+}
+.user_content
+{
+/* display:inline; */
+/* text-shadow: 3x 3px black; */
+  /*   background-color: aqua; */
+  clear:both;
+  float:center;
+    color:black;
+    text-align:center;
+    padding:10px;
+	vertical-align:center;
+border-color:black;
+font-size:18px;
+
+}
+.footer
+{
+position:relative;
+text-align:center;
+bottom:0;
+}
+.courses_button
+{
+position: absolute;
+    top: 40%;
+    right:50%;
+}
+
+
+table, td, th {
+    border: 1px solid grey;
+	align:center;
+}
+
+.all_users
+{
+background-color:brown;
+text-align:middle;
+position: absolute;
+    top: 40%;
+    left: 40%;
+
+}
+
+.logout
+{
+ position:fixed;
+   right:8px;
+   top:4px;
+}

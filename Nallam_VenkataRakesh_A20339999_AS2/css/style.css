@@ -1,0 +1,58 @@
+body {
+background-color:green;
+	/* background-image: url("images/blog.jpg"); */
+} 
+
+.textarea
+{
+color: black; background-color: transparent;border-color:black;
+}
+.header
+{
+text-shadow: 3x 3px black;
+    background-color: aqua;
+    color:black;
+    text-align:center;
+    padding:56px;
+font-weight: border;
+font-size:36px;
+} 
+
+#form_login
+{
+position:absolute;
+margin-top:70px;
+margin-left:580px;
+border:black;
+}
+
+#logout
+{
+float:right;
+}
+#reset
+{
+background-color:green;
+}
+.user_content
+{
+/* display:inline; */
+/* text-shadow: 3x 3px black; */
+  /*   background-color: aqua; */
+  clear:both;
+  float:center;
+    color:black;
+    text-align:center;
+    padding:10px;
+	vertical-align:center;
+border-color:black;
+font-size:18px;
+
+}
+.footer
+{
+position:relative;
+text-align:center;
+bottom:0;
+
+}
